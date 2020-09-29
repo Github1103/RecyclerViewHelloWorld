@@ -7,10 +7,10 @@
 ### 3.自定义适配器HelloAdapter用于瀑布流的加载
 ![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/adapter.jpg)
 ### 4.设置adapter的布局
-![avatar](https://imgchr.com/i/0e10xO)
+![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/hello_item.jpg)
 ### 5.修改activity_main的布局，设置为纵向，并且导入瀑布流布局
-![avatar](https://imgchr.com/i/0e1sqH）
+![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/main_layout.jpg)
 ### 6.在MainActivity中导入瀑布流适配器，输出图片加helloworld样式
-![avatar](https://imgchr.com/i/0e1DMD)
+![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/activity.jpg)
 ### 7.最终实现的效果如下
-![avatar](https://imgchr.com/i/0e16Zd）
+![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/show.jpg)
