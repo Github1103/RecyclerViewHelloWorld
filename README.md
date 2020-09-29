@@ -1,11 +1,11 @@
 # RecyclerViewHelloWorld
 ## 使用RecyclerView实现瀑布流输出helloworld
 ### 1.首先引入RecyclerView的布局在gradle中
-![Alt text](https://imgchr.com/i/0e1wRK）
+![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/dependency.jpg)
 ### 2.创建用于存放消息的（hello.kt）的类
-![avatar](https://imgchr.com/i/0e1dG6）
+![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/hello.jpg)
 ### 3.自定义适配器HelloAdapter用于瀑布流的加载
-![avatar](https://imgchr.com/i/0e1rse）
+![avatar](https://github.com/Github1103/RecyclerViewHelloWorld/blob/master/app/src/main/res/lab_image/adapter.jpg)
 ### 4.设置adapter的布局
 ![avatar](https://imgchr.com/i/0e10xO)
 ### 5.修改activity_main的布局，设置为纵向，并且导入瀑布流布局
